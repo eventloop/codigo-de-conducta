@@ -15,7 +15,7 @@ Organizadores:
 - [Marcela Lango](https://twitter.com/marulango)
 - [Alfredo Lorenzo](https://twitter.com/babasbot)
 - [Wendy Fabela](https://twitter.com/ritalin_p)
-- [Alejando Hernandez](https://twitter.com/pollito_sabroson)
+- [Alejando Hernandez](https://twitter.com/pollitosabroson)
 
 **Si tienes preguntas o sugerencias sobre este código de conducta,
 por favor abre un [issue](https://github.com/javascriptmx/codigo-de-conducta/issues).**
