@@ -8,14 +8,14 @@ Si un miembro de la comunidad mostrara cualquier conducta abusiva, los organizad
 
 Organizadores:
 
-- Jeduan Cornejo [@jeduan](https://twitter.com/jeduan)
-- Rogelio Alberto [@rog3r](https://twitter.com/rog3r)
-- Daniel Zavala [@siedrix](https://twitter.com/siedrix)
-- Antonio Sandoval [@__arch3r](https://twitter.com/__arch3r)
-- Roberto Hidalgo [@unrob](https://twitter.com/unrob)
-- Julio César Rodriguez [@_jurasec](https://twitter.com/_jurasec)
-- Marco Godínez [@markotom](https://twitter.com/markotom)
-- Richard Kauffman [@sparragus](https://twitter.com/sparragus)
+- [Jeduan Cornejo](https://twitter.com/jeduan)
+- [Roberto Hidalgo](https://twitter.com/unrob)
+- [Richard Kauffman](https://twitter.com/sparragus)
+- [Eduardo Vaugier](https://twitter.com/cool_acid)
+- [Marcela Lango](https://twitter.com/marulango)
+- [Alfredo Lorenzo](https://twitter.com/babasbot)
+- [Wendy Fabela](https://twitter.com/ritalin_p)
+- [Alejando Hernandez](https://twitter.com/pollito_sabroson)
 
 **Si tienes preguntas o sugerencias sobre este código de conducta,
 por favor abre un [issue](https://github.com/javascriptmx/codigo-de-conducta/issues).**
