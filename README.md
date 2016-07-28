@@ -10,12 +10,12 @@ Organizadores:
 
 - [Jeduan Cornejo](https://twitter.com/jeduan)
 - [Roberto Hidalgo](https://twitter.com/unrob)
-- [Richard Kauffman](https://twitter.com/sparragus)
+- [Richard Kaufman](https://twitter.com/sparragus)
 - [Eduardo Vaugier](https://twitter.com/cool_acid)
 - [Marcela Lango](https://twitter.com/marulango)
 - [Alfredo Lorenzo](https://twitter.com/babasbot)
 - [Wendy Fabela](https://twitter.com/ritalin_p)
-- [Alejando Hernandez](https://twitter.com/pollitosabroson)
+- [Alejandro Hernández](https://twitter.com/pollitosabroson)
 
 **Si tienes preguntas o sugerencias sobre este código de conducta,
 por favor abre un [issue](https://github.com/javascriptmx/codigo-de-conducta/issues).**
