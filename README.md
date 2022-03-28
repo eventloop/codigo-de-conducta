@@ -6,6 +6,8 @@ Las formas de acoso incluyen comentarios ofensivos, orales o escritos, relaciona
 
 Si un miembro de la comunidad mostrara cualquier conducta abusiva, los organizadores de Gophers-MX pueden tomar cualquier acción que crean apropiada, incluyendo llamarle la atención o expulsarlo de la comunidad y los eventos de la misma. Si eres víctima de conductas abusivas, ves a otra persona que está siendo acosada, o tienes dudas, por favor contacta al equipo organizador inmediatamente.
 
+Queda estrictamente prohibido hablar sobre temas fuera del ámbito tecnológico en el [grupo de Telegram](https://t.me/golangmx), como política, religión, economía, etc. El rango de discusión aún es muy amplio ya que no sólo se limita al lenguaje de programación Go, sino que puede ir desde el Back-end en general hasta tecnologías Front-end, automatización, Cloud, IA, educación, etc.
+
 Organizadores:
 
 - [Daniel Vergara](https://twitter.com/__danvergara__)
