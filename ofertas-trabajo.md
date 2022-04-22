@@ -2,6 +2,11 @@
 
 Puedes publicar ofertas de trabajo en nuestros canales de comunicación siguiendo las siguientes reglas:
 
+Puedes publicar ofertas de trabajo en nuestros canales de comunicación, siguiendo el formato que proveemos a continuación.
+Si la oferta de trabajo publicada carece de sólo algún apartado, será borrada de nuestros canales de inmediato, sin previo aviso.
+
+El formato es el siguiente:
+
 - Nombre de la empresa
 - Rango salarial
 - Nivel de experiencia
